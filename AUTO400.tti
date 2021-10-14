@@ -1,0 +1,30 @@
+DE,weatherFront,1634238027
+PS,8000
+CT,8,T
+PN,40000
+SC,0000
+OL,0,NMS 2021ECIMSBNMPServer5FweatherFront
+OL,1,Wj#3kj#3kj#3kT]S |hh4|$|l4l<h4|h<h<4    
+OL,2,Wj $kj $kj 'kT]S ozz%1k5j5j7jwj7}    
+OL,3,W"###"###"###T///-,,/,.,-.-.-.,-,-.,////
+OL,4,MCLOUDY WITH ISOLATED MIST AND FOG PC402
+OL,6,CUKD````````````````````````````````````
+OL,7,FForecast Maps  C401FWeather WarningC405
+OL,8,FRegions        C402FUK Cities 5 DayC406
+OL,9,FNational       C403FUK Review      C407
+OL,10,FCurrent        C404FEvents         C408
+OL,11,                    FInshore Waters C409
+OL,12,CFIVE DAY FORECASTSD````````````````````
+OL,13,FEurope         C410FS America      C413
+OL,14,FAfrica         C411FAsia           C414
+OL,15,FN America      C412FAustralasia    C415
+OL,16,CEXTRAD`````````````````````````````````
+OL,17,FWeather News   C416FFlood Warnings C419
+OL,18,FPollution IndexC417FSurfing        C429
+OL,19,FSun Index      C419FSkiing         C420
+OL,20,                    FPollen         C426
+OL,21,CWEATHER NEWS:BRain moving south,       
+OL,22,Bturning colder.                    C401
+OL,23,D]G     From the BBC Weather Centre     
+OL,24,AMaps  BWarnings  COutlook  FMain Menu  
+FL,401,405,403,100,8FF,199
